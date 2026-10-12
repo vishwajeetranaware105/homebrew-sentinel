@@ -1,8 +1,8 @@
 class Sentinel < Formula
   desc "Terminal PR reviewer for Bitbucket Server, powered by Juspay-hosted models"
   homepage "https://github.com/vishwajeetranaware105/sentinel"
-  url "https://github.com/vishwajeetranaware105/sentinel.git", tag: "v0.1.2"
-  version "0.1.2"
+  url "https://github.com/vishwajeetranaware105/sentinel.git", tag: "v0.1.3"
+  version "0.1.3"
   license :cannot_represent
 
   depends_on "node"
